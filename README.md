@@ -7,6 +7,10 @@ I'm kevlar a very mega professional developer and gfx artist which I have recent
 
 <img src="https://discord.c99.nl/widget/theme-4/944169031269744660.png"></img>
 
+## Languages I know
+* Python
+* Lua
+* Learning HTML
 ---
 
 ```
