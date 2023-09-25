@@ -1,16 +1,19 @@
-### Hi there 👋
+# What
+I'm kevlar a very mega professional developer and gfx artist which I have recently been focusing more on the gfx side of things which you can see on my ###instagram:
 
-<!--
-**Compromising/Compromising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Instagram](https://www.instagram.com/kevlargfx/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$$\   $$\ $$$$$$$$\ $$\    $$\ $$\        $$$$$$\  $$$$$$$\  
+$$ | $$  |$$  _____|$$ |   $$ |$$ |      $$  __$$\ $$  __$$\ 
+$$ |$$  / $$ |      $$ |   $$ |$$ |      $$ /  $$ |$$ |  $$ |
+$$$$$  /  $$$$$\    \$$\  $$  |$$ |      $$$$$$$$ |$$$$$$$  |
+$$  $$<   $$  __|    \$$\$$  / $$ |      $$  __$$ |$$  __$$< 
+$$ |\$$\  $$ |        \$$$  /  $$ |      $$ |  $$ |$$ |  $$ |
+$$ | \$$\ $$$$$$$$\    \$  /   $$$$$$$$\ $$ |  $$ |$$ |  $$ |
+\__|  \__|\________|    \_/    \________|\__|  \__|\__|  \__|
+```
+
+## *I no longer use github often*
