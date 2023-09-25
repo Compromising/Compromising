@@ -3,6 +3,8 @@ I'm kevlar a very mega professional developer and gfx artist which I have recent
 
 [Instagram](https://www.instagram.com/kevlargfx/)
 
+<img src="https://discord.c99.nl/widget/theme-4/944169031269744660.png"></img>
+
 ---
 
 ```
