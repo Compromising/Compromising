@@ -23,5 +23,4 @@ $$ | \$$\ $$$$$$$$\    \$  /   $$$$$$$$\ $$ |  $$ |$$ |  $$ |
 \__|  \__|\________|    \_/    \________|\__|  \__|\__|  \__|
 ```
 ---
-## *I no longer use github often*
 ## we had a good run armada and rodents
