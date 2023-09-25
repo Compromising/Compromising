@@ -1,5 +1,6 @@
 # What
-I'm kevlar a very mega professional developer and gfx artist which I have recently been focusing more on the gfx side of things which you can see on my ###instagram:
+I'm kevlar a very mega professional developer and gfx artist which I have recently been focusing more on the gfx side of things which you can see on my 
+###instagram:
 
 [Instagram](https://www.instagram.com/kevlargfx/)
 
