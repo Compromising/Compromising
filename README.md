@@ -9,7 +9,7 @@ I'm kevlar a very mega professional developer and gfx artist which I have recent
 ## Languages I know
 * Python
 * Lua
-* Learning HTML
+* Learning HTML and CSS
 ---
 
 ```
