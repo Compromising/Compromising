@@ -1,6 +1,6 @@
 <div align="center">
 
-# https://compromising.github.io/website/
+# [what]https://compromising.github.io/website/
 I'm kevlar a very mega professional developer and gfx artist which I have recently been focusing more on the gfx side of things which you can see on my:
 
 ### [Instagram](https://www.instagram.com/kevlargfx/)
